@@ -1,0 +1,25 @@
+{
+  "name": "coffeetime",
+  "version": "0.0.1",
+  "description": "coffeetime ==========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dazld/coffeetime.git"
+  },
+  "author": "",
+  "license": "Eclipse",
+  "bugs": {
+    "url": "https://github.com/dazld/coffeetime/issues"
+  },
+  "homepage": "https://github.com/dazld/coffeetime",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "ddd-jquery": "^0.4.0",
+    "handlebars": "^1.1.2",
+    "handlebarsify": "^1.1.0"
+  }
+}
